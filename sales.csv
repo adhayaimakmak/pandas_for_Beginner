@@ -1,0 +1,51 @@
+order_id,product,category,quantity,price,date,status
+1001,หูฟัง Sony,Electronics,2,1500,2024-01-05,completed
+1002,เสื้อยืด,Clothing,5,299,2024-01-07,completed
+1003,แล็ปท็อป ASUS,Electronics,1,28000,2024-01-09,cancelled
+1004,กางเกงยีนส์,Clothing,2,890,2024-01-10,completed
+1005,เมาส์ Logitech,Electronics,3,750,2024-02-01,pending
+1006,รองเท้าผ้าใบ,Clothing,1,1200,2024-02-03,completed
+1007,หูฟัง Sony,Electronics,1,1500,2024-02-08,completed
+1008,เสื้อยืด,Clothing,10,299,2024-02-10,cancelled
+1009,คีย์บอร์ด RGB,Electronics,1,1200,2024-02-12,completed
+1010,ชุดเดรส,Clothing,2,590,2024-02-15,completed
+1011,หูฟัง Sony,Electronics,1,,2024-02-16,completed
+1012,หมวกแก๊ป,Clothing,4,199,2024-02-18,refunded
+1013,สายชาร์จ Type-C,Electronics,5,150,2024-02-20,completed
+1014,กางเกงยีนส์,Clothing,1,890,2024-02-22,pending
+1015,เมาส์ Logitech,Electronics,,750,2024-02-25,completed
+1016,เสื้อเชิ้ต,Clothing,3,450,2024-02-26,completed
+1017,หูฟัง Sony,Electronics,2,1500,2024-02-28,processing
+1018,แล็ปท็อป ASUS,Electronics,1,28000,2024-03-01,completed
+1019,รองเท้าผ้าใบ,Clothing,2,,2024-03-02,cancelled
+1020,เสื้อยืด,Clothing,20,299,2024-03-05,completed
+1021,พาวเวอร์แบงค์,Electronics,1,990,2024-03-07,completed
+1022,กระเป๋าเป้,Clothing,1,1500,2024-03-08,completed
+1023,เมาส์ Logitech,Electronics,2,750,2024-03-10,refunded
+1024,กางเกงขาสั้น,Clothing,3,250,2024-03-12,completed
+1025,หูฟัง Sony,Electronics,1,1500,2024-03-15,completed
+1026,เสื้อยืด,Clothing,,299,2024-03-16,pending
+1027,คีย์บอร์ด RGB,Electronics,1,1200,2024-03-18,completed
+1028,แล็ปท็อป ASUS,Electronics,1,28000,2024-03-20,processing
+1029,ชุดเดรส,Clothing,1,590,2024-03-22,completed
+1030,สายชาร์จ Type-C,Electronics,10,150,2024-03-25,completed
+1031,รองเท้าผ้าใบ,Clothing,1,1200,2024-03-28,cancelled
+1032,เมาส์ Logitech,Electronics,1,,2024-03-30,completed
+1033,เสื้อเชิ้ต,Clothing,2,450,2024-04-01,completed
+1034,หูฟัง Sony,Electronics,1,1500,2024-04-02,refunded
+1035,กางเกงยีนส์,Clothing,2,890,2024-04-05,completed
+1036,แล็ปท็อป ASUS,Electronics,,28000,2024-04-07,pending
+1037,หมวกแก๊ป,Clothing,5,199,2024-04-08,completed
+1038,พาวเวอร์แบงค์,Electronics,1,990,2024-04-10,completed
+1039,เสื้อยืด,Clothing,3,299,2024-04-12,completed
+1040,หูฟัง Sony,Electronics,1,1500,2024-04-15,processing
+1041,กางเกงขาสั้น,Clothing,4,250,2024-04-18,completed
+1042,เมาส์ Logitech,Electronics,2,750,2024-04-20,completed
+1043,รองเท้าผ้าใบ,Clothing,1,1200,2024-04-22,refunded
+1044,คีย์บอร์ด RGB,Electronics,1,,2024-04-25,completed
+1045,เสื้อเชิ้ต,Clothing,3,450,2024-04-28,completed
+1046,สายชาร์จ Type-C,Electronics,2,150,2024-05-01,completed
+1047,กางเกงยีนส์,Clothing,1,890,2024-05-03,cancelled
+1048,แล็ปท็อป ASUS,Electronics,1,28000,2024-05-05,completed
+1049,หูฟัง Sony,Electronics,2,1500,2024-05-08,completed
+1050,เสื้อยืด,Clothing,,299,2024-05-10,pending
